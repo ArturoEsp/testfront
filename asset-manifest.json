@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1cd1d650.css",
-    "main.js": "/static/js/main.c8c6b949.js",
+    "main.js": "/static/js/main.b86e742a.js",
     "static/media/jacket.png": "/static/media/jacket.737c89f975656db2961d.png",
     "static/media/bg1.jpg": "/static/media/bg1.2abd2bc6735c0506746a.jpg",
     "static/media/darken-night-sky1.png": "/static/media/darken-night-sky1.049a2cd26a85856a45e6.png",
@@ -26,10 +26,10 @@
     "static/media/nucleo.woff2": "/static/media/nucleo.6dfb4833e3a0132fd1fc.woff2",
     "index.html": "/index.html",
     "main.1cd1d650.css.map": "/static/css/main.1cd1d650.css.map",
-    "main.c8c6b949.js.map": "/static/js/main.c8c6b949.js.map"
+    "main.b86e742a.js.map": "/static/js/main.b86e742a.js.map"
   },
   "entrypoints": [
     "static/css/main.1cd1d650.css",
-    "static/js/main.c8c6b949.js"
+    "static/js/main.b86e742a.js"
   ]
 }
